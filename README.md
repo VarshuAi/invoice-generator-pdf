@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Compile invoice structures, add items, and export invoices.
+  name: invoice-generator-pdf version: 1.0 type: Repository author: VarshuAi description: >   Compile invoice structures, add items, and export invoices. primary_tech: CSS
 primary_tech: CSS
 ```
 
